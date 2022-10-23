@@ -1,1 +1,1 @@
-# cursoGitPlatzi
+# Ejemplo del curso git - platzi
